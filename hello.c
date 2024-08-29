@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void)
 {
-    printf("Hello METANIT.COM! \n");
+    printf("Hello  \n");
     return 0;
 }
