@@ -11,11 +11,16 @@ int main(void)                  // определяем функцию main
     char greeting[] = "Hello, world!";
     printf("%s\n", greeting);//return 0; // один раз в кінці функції - це іменований блок коду, який виконує певну задачу. Це як рецепт: ви даєте функції певні інгредієнти (аргументи), і вона повертає вам готовий результат
     double pi =3.14159;
-    printf("Ось число pi = %d \n ", pi);
+    printf("Ось число pi = %d \n", pi);
     float number1 = 3.14f;
     long double number2 = 123456.789;
     printf("number1 = %f\n", number1);
     printf("number2 = %Lf\n", number2);
+    //Символи Переменним типа char можно присвоить один символ в одинарних кавичках:
+    char letter = 'A';
+    printf("letter: %d \n", letter);    // letter: 65 | все діло спецификаторах формата
+    printf("letter: %c \n", letter);    // letter: A | все діло в спецификаторах формата
+
 
 
 
