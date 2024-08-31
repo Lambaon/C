@@ -53,7 +53,7 @@ int main(void)                  // определяем функцию main
     printf("number = %u \n", numbe);
     
     printf("%s \n", "Hello Word 2024");
-
+// https://imgur.com/a/kGuZ8DM
 
 
 
