@@ -54,6 +54,14 @@ int main(void)                  // определяем функцию main
     
     printf("%s \n", "Hello Word 2024");
 // https://imgur.com/a/kGuZ8DM
+// Константа 
+// переменну ми можемо міняти в програмі ось так наприклад:
+    int number3 = 2;
+    printf("number = %d \n", number3);
+    number3 = 55;
+    printf("number = %d \n", number3);
+    number3 = -23;
+    printf("number = %d \n", number3);
 
 
 
