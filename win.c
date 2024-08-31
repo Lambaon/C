@@ -19,7 +19,9 @@ int main(void)                  // определяем функцию main
     //Символи Переменним типа char можно присвоить один символ в одинарних кавичках:
     char letter = 'A';
     printf("letter: %d \n", letter);    // letter: 65 | все діло спецификаторах формата
-    printf("letter: %c \n", letter);    // letter: A | все діло в спецификаторах формата
+    printf("letter: %c \n", letter);    // letter: A | все діло в спецификаторах формата 
+    // https://imgur.com/a/T1dZlnT
+    
 
 
 
