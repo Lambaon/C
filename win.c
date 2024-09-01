@@ -90,6 +90,10 @@ int main(void)                  // определяем функцию main
     int num = 5;
     int result = num == 2 + 3;      // 1 - числа равны
     printf("result = %d \n", result);     // result = 1
+    //Операция "не равно". Возвращает 1, если первый операнд не равен второму, и 0, если оба операнда равны:
+    int f = 10 != 4;    // 1
+    int d = 4 != 4;     // 0
+        // https://imgur.com/a/B1UMztv
 
 
 }
