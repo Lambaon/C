@@ -62,9 +62,11 @@ int main(void)                  // определяем функцию main
     printf("number = %d \n", number3);
     number3 = -23;
     printf("number = %d \n", number3);
+
     const int number5 = 2589;
     printf("number = %d \n", number5);
     // number5 = 55;  эта строка работать не будет, так как number - это константа
+    const float PI = 3.14; // число пі ми ніколи не будемо міняти то можемо писати константу так як не буде мінятися
     
 
 
