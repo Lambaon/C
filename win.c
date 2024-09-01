@@ -82,6 +82,14 @@ int main(void)                  // определяем функцию main
     float c2 = a1 / b1;
     printf("%f \n",c2);
 // Операциї сравнения ==
+        int a3 = 10;
+    int b3 = 4;
+    int c3 = a3 == b3;                 // 0 - числа НЕ равны
+    printf("c = %d \n", c3);         // c = 0
+
+    int num = 5;
+    int result = num == 2 + 3;      // 1 - числа равны
+    printf("result = %d \n", result);     // result = 1
 
 
 }
