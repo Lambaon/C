@@ -1,3 +1,4 @@
+// https://www.onlinegdb.com/#
 #include <stdio.h>  // подключаем заголовочный файл stdio.h юзаем практически всегда
 int main(void)                  // определяем функцию main
 {                               // начало функции
