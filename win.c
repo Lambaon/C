@@ -103,6 +103,10 @@ int main(void)                  // определяем функцию main
     
     if(0) printf("Hello World \n");
     
+    int n = 10;
+    if(n == 20) printf("n = 20 \n");
+    if(n == 10) printf("n = 10 \n");
+    
 
 }
 
